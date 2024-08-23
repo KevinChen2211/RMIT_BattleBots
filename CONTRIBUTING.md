@@ -1,18 +1,19 @@
-# Contributing
+# Contributing Guidelines
 
-## steps
+## Steps 
 
-1. Create a branch
-2. Code/ add files
-3. Commit your changes
-4. Create a PR
-5. Get reviewrs to review
-6. Squash and commit
-7. Profit
+1. Fork the repository
+2. Create a branch
+3. Add code/files
+4. Commit your changes
+5. Create a PR
+6. Add reviewers to review changes
+7. Squash and merge the PR
+8. Profit
 
 ## How to contribute!
 
-Before you start to code you will need to create branch, the naming convention is seen below:
+Before you start to code you will need to create branch, the naming convention is shown below:
 
 `{TYPE_OF_PULLREQUEST}/_{DESCRIPTION}`
 
@@ -38,7 +39,7 @@ This is a short description on what the branch change is.
 
 ## What about my commit message?
 
-To create a commit message that is detailed for better revision control:
+Please create commit messages that are detailed to maintain good revision control:
 
 `create contribution.md with extra steps`
-`edited cad files`
+`edited cad files for robot armour component`
